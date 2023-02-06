@@ -1,20 +1,17 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
+    "serverName": "Clover Ridge Seismic Research Facility",
+    "iconName": "Seal_of_the_United_States_Geological_Survey.png",
     "terminalID": "Y56",
     "defaultUser": {
-        "userId": "user",
+        "userId": "sjohnson@usgs.gov",
         "password": "",
-        "userName": "anonymous"
+        "userName": "sjohnson"
     },
     "randomSeed": true,
     "initialHistory": {
         "user": [
-            "login admin@admin"
-        ],
-        "admin": [
-            "ping fbi.gov"
+            "login sjohnson@usgs.gov"
         ]
     }
 }
