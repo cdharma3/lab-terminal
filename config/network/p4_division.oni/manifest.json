@@ -1,7 +1,7 @@
 {
     "serverAddress": "p4_division.oni",
     "serverName": "Mors Est Scientia",
-    "iconName": "<img src='config/network/p4_division.oni/Delta Green Logo.jpg' style='width: 10rem' class='glitch'>",
+    "iconName": "Delta Green Logo.jpg\" class='glitch' ",
     "terminalID": "PPPP-IN13",
     "randomSeed": true
 }
