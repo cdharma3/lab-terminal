@@ -3,5 +3,10 @@
         "userId": "sjohnson",
         "password": "hic_est_qui_sumus",
         "userName": "Johnson, Sarah"
+    },
+    {
+        "userId": "wbaker",
+        "password": "bubblegum_tree",
+        "userName": "Baker, William"
     }
 ]

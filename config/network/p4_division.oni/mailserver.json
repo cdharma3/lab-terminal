@@ -1,37 +1,21 @@
 [
     {
-        "from": "John R. Smith",
+        "from": "wbaker",
+        "to": [
+            "sd@p4.gov",
+            "sjohnson"
+        ],
+        "title": "Re: CODE BLACK: IN13",
+        "body": "Rescinding the Code Black under authority of Site Director William Baker, identification passphrase \"bubblegum tree\". The breach alarm was a false positive, the site requires no assistance at this time."
+    },
+    {
+        "from": "Security Department<ssd@p4.gov>",
         "to": [
             "sjohnson",
-            "rbaker"
+            "wbaker"
         ],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-        "from": "Software",
-        "to": [
-            "8A73B5",
-            "a"
-        ],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
-    },
-    {
-        "from": "Josephus A. Miller",
-        "to": [
-            "8A73B5",
-            "a"
-        ],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
-    },
-    {
-        "from": "Mike",
-        "to": [
-            "admin"
-        ],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "title": "CODE BLACK: IN13",
+        "body": "ALERT: A containment breach has been reported from Site IN13, suggesting the escape of an NTT. \nStaff and security are advised to avoid confrontation with the NTT at all costs. Do not engage fire on the NTT unless it has been proven to slow/hinder the advance of the threat.\n An MTF team will be dispatched to your location shortly."
     }
+    
 ]
