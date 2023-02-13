@@ -48,5 +48,37 @@
         ],
         "title": "CODE BLACK: IN13",
         "body": "ALERT: A containment breach has been reported from Site IN13, suggesting the escape of an NTT. \nStaff and security are advised to avoid confrontation with the NTT at all costs. Do not engage fire on the NTT unless it has been proven to slow/hinder the advance of the threat.\n An MTF team will be dispatched to your location shortly."
+    },
+    {
+        "from": "wbaker",
+        "to": [
+            "sjohnson"
+        ],
+        "title": "Research Update: Project Temporis",
+        "body": "Agent Johnson,\n\nI hope this email finds you well. Project Temporis is showing great promise and we have been able to gather a substantial amount of data on the artifact's capabilities.\n\nAs per our discussions, I understand your concerns regarding the potential consequences of using the artifact. However, I assure you that we have taken every precaution to ensure the safety of our researchers.\n\nPlease let me know if there are any further updates or developments that you would like to share.\n\n        William Baker"
+    },
+    {
+        "from": "sjohnson",
+        "to": [
+            "wbaker"
+        ],
+        "title": "Re: Research Update: Project Temporis",
+        "body": "Director Baker,\n\nI received your email and I appreciate the update on Project Temporis. However, I must express my increasing concerns about the safety protocols in place.\n\nReports from the field indicate that there have been some time fluctuations during our tests with the artifact. While these fluctuations have not yet caused any harm, I believe that it is important for us to consider the potential consequences of these disruptions.\n\nI strongly suggest that we reassess the potential risks involved and take appropriate measures to minimize any potential harm.\n\nSarah Johnson"
+    },
+    {
+        "from": "wbaker",
+        "to": [
+            "sjohnson"
+        ],
+        "title": "Re: Re: Research Update: Project Temporis",
+        "body": "Agent Johnson,\n\nI have reviewed your concerns and I understand your worries. However, I must emphasize that these fluctuations are minor and well within acceptable parameters.\n\nOur researchers have been able to effectively control the artifact and the data we are gathering is proving to be invaluable. I believe that the benefits of continuing the research far outweigh any potential risks.\n\nPlease trust in our researchers' abilities to handle the situation and let them continue their work.\n\nWilliam Baker"
+    },
+    {
+        "from": "sjohnson",
+        "to": [
+            "wbaker"
+        ],
+        "title": "Re: Re: Re: Research Update: Project Temporis",
+        "body": "Director Baker,\n\nWith all due respect, I must stress that the fluctuations we are seeing with the artifact are not minor and are growing in intensity. It is imperative that we take immediate action to halt the research until we can fully assess the situation and address any potential hazards.\n\nIf you'll pardon my language sir, I have seen much shit over the course of my time here. I have seen the consequences of unchecked use of powerful artifacts like this and I implore you to listen to my concerns.\n\nI am available to discuss this further and provide any additional information necessary.\n\nSarah Johnson"
     }
 ]
