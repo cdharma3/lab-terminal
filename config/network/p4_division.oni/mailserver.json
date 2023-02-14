@@ -82,11 +82,19 @@
         "body": "Director Baker,\n\nWith all due respect, I must stress that the fluctuations we are seeing with the artifact are not minor and are growing in intensity. It is imperative that we take immediate action to halt the research until we can fully assess the situation and address any potential hazards.\n\nIf you'll pardon my language sir, I have seen much shit over the course of my time here. I have seen the consequences of unchecked use of powerful artifacts like this and I implore you to listen to my concerns.\n\nI am available to discuss this further and provide any additional information necessary.\n\nSarah Johnson"
     },
     {
-        "from": "sjohnson",
+        "from": "THE HOUNDS",
         "to": [
             "sjohnson"
         ],
         "title": "<p class='desync'>THE HOUNDS ARE COMING</p>",
         "body": "<p class='desync'>THE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMINGTHE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMING THE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMING THE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMINGTHE HOUNDS ARE COMING</p>"
+    },
+    {
+        "from": "sjohnson",
+        "to": [
+            "sjohnson"
+        ],
+        "title": "READ ME",
+        "body": "Hello. If you're reading this message I'm already dead. My name is Sarah Johnson, an agent working for the organization known as Delta Green. We specialize the study of the paranormal and our mission is to defend the United States from threats that lurk in the dark. In this creed, we have failed. The Council has gotten greedy in their pursuit for the truth, and we have ventured into territory that we should never have breached."
     }
 ]
