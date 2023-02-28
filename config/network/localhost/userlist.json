@@ -1,7 +1,112 @@
 [
     {
         "userId": "sjohnson",
-        "password": "hic est qui sumus",
+        "password": "lost_time",
         "userName": "Johnson, Sarah"
+    },
+    {
+        "userId": "wbaker",
+        "password": "bubblegum_tree",
+        "userName": "Baker, William"
+    },
+    {
+        "userId": "rrodriguez",
+        "password": "life_is_fleeting",
+        "userName": "Rodriguez, Richard"
+    },
+    {
+        "userId": "ljames",
+        "password": "joyful_love_weaves",
+        "userName": "James, Lisa"
+    },
+    {
+        "userId": "kphillips",
+        "password": "strength_in_virtue",
+        "userName": "Phillips, Kevin"
+    },
+    {
+        "userId": "mhernandez",
+        "password": "secret_love_burns",
+        "userName": "Hernandez, Maria"
+    },
+    {
+        "userId": "tlee",
+        "password": "life_passing_by",
+        "userName": "Lee, Thomas"
+    },
+    {
+        "userId": "edavis",
+        "password": "Night_Wind_Howls",
+        "userName": "Davis, Elizabeth"
+    },
+    {
+        "userId": "wbaker",
+        "password": "bubblegum_tree",
+        "userName": "Baker, John"
+    },
+    {
+        "userId": "djackson",
+        "password": "heart_still_beats",
+        "userName": "Jackson, David"
+    },
+    {
+        "userId": "jparker",
+        "password": "Fair_Is_Foul",
+        "userName": "Parker, Jessica"
+    },
+    {
+        "userId": "mwilson",
+        "password": "life_never_dies",
+        "userName": "Wilson, Michael"
+    },
+    {
+        "userId": "sgreen",
+        "password": "virtue_and_truth",
+        "userName": "Green, Sarah"
+    },
+    {
+        "userId": "alee",
+        "password": "life_flowing_by",
+        "userName": "Lee, Andrew"
+    },
+    {
+        "userId": "lkim",
+        "password": "love_endures_all",
+        "userName": "Kim, Lauren"
+    },
+    {
+        "userId": "tchen",
+        "password": "love_will_prevail",
+        "userName": "Chen, Thomas"
+    },
+    {
+        "userId": "rmartinez",
+        "password": "life_will_endure",
+        "userName": "Martinez, Rachel"
+    },
+    {
+        "userId": "dkim",
+        "password": "love_will_last",
+        "userName": "Kim, David"
+    },
+    {
+        "userId": "kjohnson",
+        "password": "love_will_shine",
+        "userName": "Johnson, Karen"
+    },
+    {
+        "userId": "esmith",
+        "password": "life_will_prevail",
+        "userName": "Smith, Elizabeth"
+    },
+    {
+        "userId": "dlee",
+        "password": "virtue_will_last",
+        "userName": "Derek Lee"
+    },
+    {
+        "userId": "jdavis",
+        "password": "virtue_will_last",
+        "userName": "Derek Lee"
     }
 ]
